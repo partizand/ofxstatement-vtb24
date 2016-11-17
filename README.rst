@@ -22,7 +22,7 @@ Supported banks:
 Authors
 =======
 
-|  Copyright (c) 2016 Andrey Kapustin
+|  Copyright (c) 2016 Partizand
 
 
 This program is free software: you can redistribute it and/or modify
